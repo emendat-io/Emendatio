@@ -18,13 +18,13 @@ const LabsPage = () => {
       title: "Interactive Data Visualization",
       description: "A React component for visualizing complex data sets with interactive features.",
       image: "/images/data-viz.jpg",
-      link: "/labs/data-viz"
+      link: "/Emendatio/labs/data-viz"
     },
     {
         title: "ML Dashboards",
         description: "ML Driven.... ",
         image: "/images/ml-dashboards.jpg",
-        link: "/labs/ml-dashboard"
+        link: "/Emendatio/labs/ml-dashboard"
       },
     {
       title: "VR Office Tour",
