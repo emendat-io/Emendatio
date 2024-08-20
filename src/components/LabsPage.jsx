@@ -21,6 +21,12 @@ const LabsPage = () => {
       link: "/labs/data-viz"
     },
     {
+        title: "ML Dashboards",
+        description: "ML Driven.... ",
+        image: "/images/ml-dashboards.jpg",
+        link: "/labs/ml-dashboard"
+      },
+    {
       title: "VR Office Tour",
       description: "A virtual reality experience showcasing our innovative office space.",
       image: "/images/vr-office.jpg",
